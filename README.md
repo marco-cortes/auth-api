@@ -33,7 +33,7 @@ That is an implementation of JWT with node, express and mongodb
 - /api/auth/validate
   * that endpoint it's for validate a session in other api
   * type: get
-  * requires a JWT
+  * requires an JWT sent by headers
   * only returns an "ok" true or false in a JSON
 - /api/auth/
   * that endpoint it's for create a new session (login)
