@@ -1,6 +1,6 @@
 # My AUTH API with NODE JS & EXPRESS
-That is an implementation of JWT with node, express and mongodb
-Try it on: https://marco-cortes-auth.herokuapp.com/
+#### That is an implementation of JWT with node, express and mongodb
+#### Try it on: https://marco-cortes-auth.herokuapp.com/
 ## ENDPOINTS:
 
 - /api/auth/new
